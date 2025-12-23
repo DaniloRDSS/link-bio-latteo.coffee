@@ -3,7 +3,7 @@
 Página simples e responsiva para centralizar meus links pessoais.
 
 ## 🔗 Acesso
-https://SEU_USUARIO.github.io/link-bio-latteo.coffee/
+https://danilordss.github.io/link-bio-latteo.coffee/
 
 ## 🛠️ Tecnologias
 - HTML
